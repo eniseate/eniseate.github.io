@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eniseate.github.io/sitemap
+Sitemap: https://eniseate.github.io/app/sitemap
+Sitemap: https://eniseate.github.io/assets/sitemap
+Sitemap: https://eniseate.github.io/css/sitemap
+Sitemap: https://eniseate.github.io/includes/sitemap
+Sitemap: https://eniseate.github.io/item/sitemap
+Sitemap: https://eniseate.github.io/src/sitemap
